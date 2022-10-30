@@ -2,4 +2,5 @@
 first
 second
 third
-issue resolved
+issue resolve
+Hotfix team's solution.
