@@ -3,4 +3,5 @@ first
 second
 third
 issue resolved
-hotfix my solution
+Hotfix team's solution.
+
